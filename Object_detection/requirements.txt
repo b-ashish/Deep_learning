@@ -1,0 +1,9 @@
+pyqt5
+pyqt5-tools
+matplotlib 
+pandas 
+PyWavelets 
+scipy 
+sympy
+pydynamic==2.3.2
+opencv-python
